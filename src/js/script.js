@@ -24,7 +24,6 @@ var objetoCurso = {
 
 meusCursos.push(objetoCurso);
 
-console.log("Curso adicionado:", meusCursos);
 
 
 
